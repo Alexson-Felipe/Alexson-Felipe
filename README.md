@@ -8,6 +8,8 @@ I am new to programming, but living and learning more every day.
 
 - 📍 From SC living in Tubarão
 
+
+
 <div align="center">
   <a href="https://github.com/Alexson-Felipe">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alexson-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,3 +31,7 @@ I am new to programming, but living and learning more every day.
   </div> 
   
   ![Snake animation](https://github.com/Alexson-Felipe/Alexson-Felipe/blob/output/github-contribution-grid-snake.svg)
+  
+  <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Alexson-Felipe&label=PROFILE+VIEWS" alt="Alexson-Felipe" /> 
+</p>
