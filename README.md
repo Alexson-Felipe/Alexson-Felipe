@@ -1,12 +1,10 @@
-# Hello 👋
+# Olá 👋
 
-My name is Alexson Felipe 🧙🏼‍🇧🇷
+Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
 
-I am new to programming, but living and learning more every day.
+### 🌍 "Ser desenvolvedor é uma jornada onde a próxima parada é a solução para um problema." 🧠 ###
 
-### 🌍 "Being a developer is a journey where the next stop is the solution to a problem." 🧠 ###
-
-- 📍 From SC living in Tubarão
+- 📍 Moro em Tubarão SC
 
 
 
