@@ -5,6 +5,7 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
 ### 🌍 "Ser desenvolvedor é uma jornada onde a próxima parada é a solução para um problema." 🧠 ###
 
 - 📍 Moro em Tubarão SC
+- 🎓 Analise em desenvolvimento de sistemas
 
 
 
