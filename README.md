@@ -5,7 +5,8 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
 ### 🌍 "Ser desenvolvedor é uma jornada onde a próxima parada é a solução para um problema." 🧠 ###
 
 - 📍 Moro em Tubarão SC
-- 🎓 Analise em desenvolvimento de sistemas
+- 🎓 Técnico analise em desenvolvimento de sistemas
+- 🎓 Ciência da Computação
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Alexson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
