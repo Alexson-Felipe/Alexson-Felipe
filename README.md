@@ -8,9 +8,7 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
 - 🎓 Técnico analise em desenvolvimento de sistemas
 - 🎓 Ciência da Computação
 
-  ##
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
-  
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,java)](https://skillicons.dev)
   ##
   
   <div>
