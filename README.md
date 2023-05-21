@@ -7,7 +7,9 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
 - 📍 Moro em Tubarão SC
 - 🎓 Técnico analise em desenvolvimento de sistemas
 - 🎓 Ciência da Computação
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)]
+
+  ##
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
   
   ##
   
