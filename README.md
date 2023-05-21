@@ -8,7 +8,7 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
 - 🎓 Técnico analise em desenvolvimento de sistemas
 - 🎓 Ciência da Computação
 
-  
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,angular,java,spring,postman)](https://skillicons.dev)
   ##
   
   <div>
@@ -16,8 +16,7 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
   <a href="https://www.linkedin.com/in/alexson-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div> 
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexson-Felipe&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexson-Felipe&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexson-Felipe&theme=dracula) |
-| :-: | :-: | :-: |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexson-Felipe&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexson-Felipe&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexson-Felipe&theme=dracula) | :-: | :-: | :-: |
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexson-Felipe&theme=dracula) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexson-Felipe&theme=dracula&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
