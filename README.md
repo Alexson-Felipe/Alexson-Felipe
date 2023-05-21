@@ -18,9 +18,7 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexson-Felipe&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexson-Felipe&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexson-Felipe&theme=dracula) | :-: | :-: | :-: |
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexson-Felipe&theme=dracula) | [![GitHub Streak](https://github-readme- streak-stats.herokuapp.com?user=Alexson-Felipe&theme=dracula&hide_border=true)](https://git.io/streak-stats) 
-| :-: | :-: |
-  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexson-Felipe&theme=dracula) | [![GitHub Streak](https://github-readme- streak-stats.herokuapp.com?user=Alexson-Felipe&theme=dracula&hide_border=true)](https://git.io/streak-stats) | :-: | :-: |
   
   <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Alexson-Felipe&label=PROFILE+VIEWS" alt="Alexson-Felipe" /> 
