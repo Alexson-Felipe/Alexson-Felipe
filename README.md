@@ -4,7 +4,7 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
 
 ### 🌍 "Ser desenvolvedor é uma jornada onde a próxima parada é a solução para um problema." 🧠 ###
 
-- 📍 Moro em Tubarão SC
+- 📍 Moro em Criciúma SC
 - 🎓 Técnico analise em desenvolvimento de sistemas
 - 🎓 Ciência da Computação
 
