@@ -9,7 +9,7 @@ Meu nome é Alexson Felipe 🧙🏼‍🇧🇷
 - 🎓 Ciência da Computação
 
   
-  | [![My Skills](https://skillicons.dev/icons?i=angular,js,typescript,nodejs,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=postgres,postman,docker,git)](https://skillicons.dev) |
+  | [![My Skills](https://skillicons.dev/icons?i=flutter,angular,js,typescript,nodejs,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=postgres,postman,docker,git)](https://skillicons.dev) |
   | :-: | :-: | :-: |
   
   ##
